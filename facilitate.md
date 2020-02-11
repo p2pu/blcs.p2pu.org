@@ -1,21 +1,21 @@
 ---
-title: Facilitate
-welcome: |
-    (Partner name) is bringing learning circles to (city/country) in 2020! 
-
-    Learning circles are free, interest-driven study groups that are led by a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
-
-    If you’re interested in participating, explore the resources below and contact us to get involved!
-resources_title: Facilitator resources
+title: Facilita
+welcome: "A Biblioteca Lúcio Craveiro da Silva vai iniciar círculos de aprendizagem\
+  \ em Braga em 2020! \nOs círculos de aprendizagem são grupos de estudo gratuitos\
+  \ e liderados por um facilitador. O facilitador não precisa ser um especialista\
+  \ nos temas; com um pouco de prática e treino, qualquer pessoa pode facilitar.\n\
+  Se estiver interessado em participar, explore os recursos abaixo e entre em contato\
+  \ para colaborar connosco!"
+resources_title: Recursos do facilitador
 resources:
-- title: Courses for learning circles
+- title: Cursos Círculos de Aprendizagem
   image: /assets/img/courses.gif
   url: /courses
-- title: Facilitator forum
+- title: Fórum do facilitador
   image: /assets/img/discourse.png
   url: https://community.p2pu.org
   tag: forum
-- title: Other facilitator resources (in English)
+- title: Recursos adicionais do facilitador (em Inglês)
   image: /assets/img/p2pu.jpeg
   url: https://www.p2pu.org/en/facilitate
 layout: facilitate

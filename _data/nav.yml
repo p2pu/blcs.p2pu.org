@@ -1,12 +1,10 @@
 topnav:
 - url: /
-  title: Home
+  title: Início
 - url: /about
-  title: About
+  title: Acerca de
 - url: /facilitate
-  title: Facilitate
-
+  title: Facilita
 org:
-    url: https://hog.warts/
-    logo_url: /assets/img/team-logo.png
-
+  url: https://hog.warts/
+  logo_url: /assets/img/team-logo.png
