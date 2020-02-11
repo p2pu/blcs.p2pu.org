@@ -1,12 +1,9 @@
 socials:
 - text: Instagram
-  url: https://www.instagram.com/p2puniversity/
+  url: https://www.instagram.com/bibliotecaluciocraveiro/
   icon_class: fa fa-instagram
-- text: Twitter
-  url: https://twitter.com/p2pu
-  icon_class: fa fa-twitter
 - text: Facebook
-  url: https://www.facebook.com/P2PUniversity
+  url: https://www.facebook.com/Biblioteca.BLCS/
   icon_class: fa fa-facebook
 license: Salvo indicação contrária, todos os materiais deste site são licenciados
   sob a licença CC BY-SA 4.0.
