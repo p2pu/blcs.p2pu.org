@@ -1,5 +1,6 @@
 ---
 layout: index
+header: hero_header.html
 header_text: P2PU & BLCS
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
 hero: "Os Círculos de Aprendizagem estão a chegar a Braga! \nJunte-se a nós na biblioteca\
