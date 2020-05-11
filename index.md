@@ -1,6 +1,7 @@
 ---
 layout: index
 header: hero_header.html
+header_pattern: p2pu-bg-dots.svg
 header_image: braga_photo_LC.jpg
 header_text: P2PU & BLCS
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
