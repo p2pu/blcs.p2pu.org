@@ -30,7 +30,7 @@ faq:
     vem de outras organizações da web. Poderá utilizar o curso que desejar para um
     círculo de aprendizagem, desde que seja gratuito para os participantes e não viole
     os termos de serviço do provedor do curso. A lista completa dos cursos atualmente
-    em uso pelos facilitadores do círculo de aprendizagem está disponível em https://TEAMURL.p2pu.org/courses/.
+    em uso pelos facilitadores do círculo de aprendizagem está disponível em https://blcs.p2pu.org/courses/.
 - q: Que informações pessoais preciso fornecer para participar?
   a: Os participantes dos círculos de aprendizagem não precisam criar uma conta na
     Universidade Peer 2 Peer. Poderá inscrever-se num círculo de aprendizagem com
@@ -39,7 +39,7 @@ faq:
     círculo de aprendizagem, é necessário criar uma conta P2PU. Questões adicionais
     relacionadas com a privacidade do utilizador poderão ser remetidas para support@p2pu.org.
 - q: Terei de pagar para participar num círculo de aprendizagem?
-  a: Não. Os círculos de aprendizagem são totalmente gratuitos
+  a: Não. Os círculos de aprendizagem são totalmente gratuitos.
 - q: Vou receber algum certificado no final do círculo de aprendizagem?
   a: A P2PU não é uma universidade e não faz acreditação de certificados ou graduações.
     Alguns dos cursos online usados nos círculos de aprendizagem conferem diplomas
