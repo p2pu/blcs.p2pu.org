@@ -1,5 +1,7 @@
 ---
 layout: index
+header: hero_header.html
+header_image: braga_photo_LC.jpg
 header_text: P2PU & BLCS
 header_image: braga_photo_LC.jpg
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
@@ -12,4 +14,3 @@ bundles:
 - style
 - index
 ---
-=======
