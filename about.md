@@ -66,33 +66,17 @@ faq:
       O objetivo do projeto é facilitar o acesso a recursos de aprendizagem online, que sejam úteis para adultos, usando a metodologia do círculo de aprendizagem desenvolvida pela P2PU. O nosso trabalho em conjunto consiste em:
 
 
-      -Realizar pesquisas em 2018-19, incluindo a redação de um white paper sobre aprendizagem de adultos e a digitalização de recursos de aprendizagem online de qualidade e no idioma de cada parceiro.
+      * Realizar pesquisas em 2018-19, incluindo a redação de um white paper sobre aprendizagem de adultos e a digitalização de recursos de aprendizagem online de qualidade e no idioma de cada parceiro.
 
-      - Traduzir e adaptar a metodologia e o software do círculo de aprendizagem em 2019-20.
+      * Traduzir e adaptar a metodologia e o software do círculo de aprendizagem em 2019-20.
 
-      - Formar até 25 organizadores de círculos de aprendizagem em 2020, que irão liderar workshops de facilitação em cada país.
+      * Formar até 25 organizadores de círculos de aprendizagem em 2020, que irão liderar workshops de facilitação em cada país.
 
-      - Realizar uma série de workshops de facilitação em 2021, levando a que se realizem círculos de aprendizagem nas bibliotecas de cada um dos países parceiros.
+      * Realizar uma série de workshops de facilitação em 2021, levando a que se realizem círculos de aprendizagem nas bibliotecas de cada um dos países parceiros.
   - q: Qualquer pessoa pode iniciar e facilitar um círculo de aprendizagem?
-    a: >-
-      Este projeto é apoiado pelo programa Erasmus + da União Europeia.
-      “Círculos de aprendizagem em bibliotecas” é um projeto de 3 anos
-      (2018-2021) liderado pela Fundacja Rozwoju Społeczeństwa Informacyjnego na
-      Polónia, com parceiros adicionais na Alemanha (Stadtbibliothek Kőln),
-      Roménia (Fundatia Progress), Portugal (Biblioteca Lúcio Craveiro da
-      Silva), e Finlandia (Suomen eOppimiskeskus ry).
-
-
-      O objetivo do projeto é facilitar o acesso a recursos de aprendizagem online, que sejam úteis para adultos, usando a metodologia do círculo de aprendizagem desenvolvida pela P2PU. O nosso trabalho em conjunto consiste em:
-
-
-      - Realizar pesquisas em 2018-19, incluindo a redação de um white paper sobre aprendizagem de adultos e a digitalização de recursos de aprendizagem online de qualidade e no idioma de cada parceiro.
-
-      - Traduzir e adaptar a metodologia e o software do círculo de aprendizagem em 2019-20.
-
-      - Formar até 25 organizadores de círculos de aprendizagem em 2020, que irão liderar workshops de facilitação em cada país.
-
-      - Realizar uma série de workshops de facilitação em 2021, levando a que se realizem círculos de aprendizagem nas bibliotecas de cada um dos países parceiros.
+    a: Sim! É possível criar círculos de aprendizagem, basta criar uma conta de
+      utilizador na P2PU. Começamos a criar alguns recursos em português para os
+      facilitadores, que poderá consultar e contribuir aqui.
 layout: about
 bundles:
   - style
