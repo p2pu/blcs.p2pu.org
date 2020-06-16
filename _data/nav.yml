@@ -1,10 +1,10 @@
 topnav:
-- url: /
-  title: Início
-- url: /about
-  title: Acerca de
-- url: /facilitate
-  title: Facilita
+  - url: /
+    title: Início
+  - url: /about
+    title: Acerca de
+  - url: /facilitate
+    title: Facilitar
 org:
   url: http://www.blcs.pt
   logo_url: /assets/img/BLCS_logoPOS.jpg
