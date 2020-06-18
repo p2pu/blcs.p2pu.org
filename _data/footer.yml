@@ -1,13 +1,16 @@
 socials:
-- text: Instagram
-  url: https://www.instagram.com/bibliotecaluciocraveiro/
-  icon_class: fa fa-instagram
-- text: Facebook
-  url: https://www.facebook.com/Biblioteca.BLCS/
-  icon_class: fa fa-facebook
+  - text: Instagram
+    url: https://www.instagram.com/bibliotecaluciocraveiro/
+    icon_class: fa fa-instagram
+  - text: Facebook
+    url: https://www.facebook.com/Biblioteca.BLCS/
+    icon_class: fa fa-facebook
+  - text: Youtube
+    icon_class: fa fa-youtube
+    url: https://www.youtube.com/user/BLCSBraga
 project_link: https://www.blcs.pt/portal/default.aspx#
-license: Salvo indicação contrária, todos os materiais deste site são licenciados
-  sob a licença CC BY-SA 4.0.
+license: Salvo indicação contrária, todos os materiais deste site são
+  licenciados sob a licença CC BY-SA 4.0.
 about_orgs: P2PU é uma U.S. 501(c)3 registada na California.
 tos:
   title: Termos de Serviço
