@@ -11,7 +11,7 @@ faq:
   - q: O que é um círculo de aprendizagem?
     a: >-
       Um círculo de aprendizagem é um grupo de pessoas que se reúnem para
-      aprender algo em conjunto. Os círculos de aprendizagem são:
+      aprenderem algo em conjunto. Os círculos de aprendizagem são:
 
 
       * Abertos ao público
@@ -21,7 +21,7 @@ faq:
       * Recorrentes (geralmente entre 6-8 encontros)
 
 
-      Além disso, os círculos de aprendizagem são liderados por um facilitador, e não por um professor. Isso significa que a pessoa que está a facilitar o seu círculo de aprendizagem não é um especialista no assunto está a aprender. Os facilitadores ajudam a guiar e orientar o grupo ao longo do curso e garantem que o espaço para reuniões esteja disponível a cada semana para a reunião.
+      Além disso, os círculos de aprendizagem são liderados por um facilitador, e não por um professor. Isso significa que a pessoa que está a facilitar o seu círculo de aprendizagem não é um especialista no assunto que está a aprender. Os facilitadores ajudam a guiar e orientar o grupo ao longo do curso e garantem que o espaço de reuniões esteja disponível a cada semana para a reunião.
   - q: Que materiais podem ser utilizados nos círculos de aprendizagem?
     a: A maioria dos círculos de aprendizagem utiliza um curso online gratuito como
       base de estudo. A P2PU cria alguns cursos, mas a grande maioria dos
@@ -56,17 +56,17 @@ faq:
   - q: Em que consiste este projeto?
     a: >-
       Este projeto é apoiado pelo programa Erasmus + da União Europeia.
-      “Círculos de aprendizagem em bibliotecas” é um projeto de 3 anos
-      (2018-2021) liderado pela Fundacja Rozwoju Społeczeństwa Informacyjnego na
-      Polónia, com parceiros adicionais na Alemanha (Stadtbibliothek Kőln),
-      Roménia (Fundatia Progress), Portugal (Biblioteca Lúcio Craveiro da
-      Silva), e Finlandia (Suomen eOppimiskeskus ry).
+      “Círculos de aprendizagem em bibliotecas” tem a duração de 3 anos
+      (2018-2021) e é liderado pela Fundacja Rozwoju Społeczeństwa
+      Informacyjnego na Polónia, com parceiros adicionais na Alemanha
+      (Stadtbibliothek Kőln), Roménia (Fundatia Progress), Portugal (Biblioteca
+      Lúcio Craveiro da Silva), e Finlândia (Suomen eOppimiskeskus ry).
 
 
-      O objetivo do projeto é facilitar o acesso a recursos de aprendizagem online, que sejam úteis para adultos, usando a metodologia do círculo de aprendizagem desenvolvida pela P2PU. O nosso trabalho em conjunto consiste em:
+      O objetivo do projeto é facilitar o acesso a recursos de aprendizagem online, que sejam úteis para adultos, utilizando a metodologia do círculo de aprendizagem desenvolvida pela P2PU. O nosso trabalho em conjunto consiste em:
 
 
-      * Realizar pesquisas em 2018-19, incluindo a redação de um white paper sobre aprendizagem de adultos e a digitalização de recursos de aprendizagem online de qualidade e no idioma de cada parceiro.
+      * Realizar pesquisas em 2018-19, incluindo a redação de um white paper sobre a aprendizagem de adultos e a procura de recursos de aprendizagem online de qualidade no idioma de cada parceiro.
 
       * Traduzir e adaptar a metodologia e o software do círculo de aprendizagem em 2019-20.
 
