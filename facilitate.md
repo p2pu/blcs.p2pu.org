@@ -19,6 +19,9 @@ resources:
   - title: Recursos adicionais do facilitador (em Inglês)
     image: /assets/img/p2pu.jpeg
     url: https://www.p2pu.org/en/facilitate
+  - title: "Círculos de aprendizagem em bibliotecas - Portugal : recursos"
+    url: https://www.blcs.pt/portal/learningcircles.aspx
+    image: /assets/img/bannercircles.jpg
 layout: facilitate
 bundles:
   - style
