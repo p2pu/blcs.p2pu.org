@@ -21,7 +21,7 @@ resources:
     url: https://www.p2pu.org/en/facilitate
   - title: "Círculos de aprendizagem em bibliotecas - Portugal : recursos"
     url: https://www.blcs.pt/portal/learningcircles.aspx
-    image: /assets/img/bannercircles.jpg
+    image: /assets/img/bannercircles2.jpg
 layout: facilitate
 bundles:
   - style
